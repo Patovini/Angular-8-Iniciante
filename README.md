@@ -1,15 +1,15 @@
-#  Angular 8 Primeiros Passos
+Angular 8 - DIO BOOTCAMP
 
 
 ___
 
-### Requisitos
+Requisitos
 
  * HTML Básico.
  * JS Básico.
  * Bootstrap Básico.
 
-### Ambiente
+Ambiente
 
  * Node.js.
  * Angular CLI.
@@ -33,7 +33,8 @@ ___
 3 - Instalação [VSCode.deb](https://code.visualstudio.com/download)
 ___
 
-### Criando a base do projeto:
+Criando a base do projeto:
+
 1 - Abra o terminal e navegue até a pasta onde o projeto será criado.
 
 2 - Crie um projeto chamado course-manager:
