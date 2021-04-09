@@ -1,4 +1,4 @@
-Angular 8 - DIO BOOTCAMP
+Angular 8 - DIO BOOTCAMP (somente para estudo )
 
 
 ___
@@ -807,8 +807,6 @@ Recapitulando:
 Visão Geral do Projeto:
 
 ![img/Diagrama2.png](https://github.com/aluiziomonteiro/angular/blob/master/img/Diagrama2.png)
-
-[Código do Projeto](https://github.com/aluiziomonteiro/angular/tree/3c2f63017e2ffb4ac572ad00732a7dbe16d7d339)
 ___
 ___
 
@@ -2015,8 +2013,6 @@ Conclusão:
 * Verificações no formulário.
 * Adição de classes de validação.
 
-[Código do Projeto](https://github.com/aluiziomonteiro/angular/archive/cfe09393bdaace057be163f070b2cd0c34fb34af.zip)
-
 ___
 
 ### Segregando Responsabilidades
@@ -2422,10 +2418,6 @@ Caso não exista um id, vamos ter que retornar um post. O back end será o respo
 
 
 
-[Código do projeto](https://github.com/aluiziomonteiro/angular/tree/4832b757ffaa5a92f8c8029b82171d6cfb472761)
-
-
-
 
 
 ___
@@ -2545,8 +2537,6 @@ Agora vamos criar a parte de deletar.
 ![img/060.png](https://github.com/aluiziomonteiro/angular/blob/master/img/060.png)
 
 Requisições em http serão muito utilizadas nos próximos cursos.
-
-[Código do Projeto](https://github.com/aluiziomonteiro/angular/tree/909c9a6c0981df7e36a2dbf08289a1df2893a92a)
 
 ___
 ### Segregando a Aplicação em Módulos
@@ -2976,7 +2966,6 @@ export class CoreModule{
 
 Cuidado para não deixar componentes declarados no módulo pai, pois se estiverem assim, e não declarados nos seus respectivos componentes, a aplicação vai ficar funcionando, mas de nada adiantou a segregação.
 
-[Código do Projeto](https://github.com/aluiziomonteiro/angular.git)
 
 
 
